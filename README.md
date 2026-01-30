@@ -19,13 +19,7 @@ Built to handle complex UI flows with predictable state restoration, while stayi
 ## Installation
 
 ```bash
-npm install @brennoleon/dinamic-top-bar
-```
-
-Recommended:
-
-```bash
-pnpm add @brennoleon/dinamic-top-bar
+git clone https://github.com/Brennoleon/DTB-Dinamic-Top-Bar---Open-Source
 ```
 
 ---
@@ -175,4 +169,5 @@ MIT
 ---
 
 Feito com s2 por Brenno Leon
+
 
