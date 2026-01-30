@@ -19,13 +19,13 @@ Built to handle complex UI flows with predictable state restoration, while stayi
 ## Installation
 
 ```bash
-npm install dinamic-top-bar
+npm install @brennoleon/dinamic-top-bar
 ```
 
 Recommended:
 
 ```bash
-pnpm add dinamic-top-bar
+pnpm add @brennoleon/dinamic-top-bar
 ```
 
 ---
@@ -175,3 +175,4 @@ MIT
 ---
 
 Feito com s2 por Brenno Leon
+
